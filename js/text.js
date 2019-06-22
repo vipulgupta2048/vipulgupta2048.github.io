@@ -20,7 +20,7 @@ help = [
 var download =
   "Thanks for your interest in getting the terminal portfolio. You can reach the designer here! --> valentin.salaud@mmibordeaux.com";
 var email =
-  '<a href="mailto:vipulgupta2048@gmail.com">vipulgupta2048@gmail.com</a>';
+  '<a href="mailto:vipulgupta2048@gmail.com">vipulgupta2048[@]gmail[dot]com</a>';
 
 // Text for the command 'about'
 about = [
@@ -49,9 +49,7 @@ social = [
   'linkedin       <a href="' + linkedin + '">' + linkedin + "</a>",
   'twitter        <a href="' + twitter + '">' + twitter + "</a>",
   'instagram      <a href="' + instagram + '">' + instagram + "</a>",
-  'Mixster      <a href="' + blog + '">' + blog + "</a>",
-  "<br>",
-  '<span class="command">Github</span>  <span class="inherit">: open my github page</span>',
+  'Mixster        <a href="' + blog + '">' + blog + "</a>",
   "<br>"
 ];
 
@@ -65,7 +63,9 @@ var worksClos = "works close";
 //credits
 credits = [
   "<br>",
-  '<span class="margin">All credits to Valentin SLD for desiging this portfolio. If you loved his work, do support or better yet hire him. His behance profile - https://www.behance.net/valentinsld</span>',
+  '<span class="margin">All credits to Valentin SLD for desiging this portfolio.</span>',
+  '<span class="margin">If you loved his work, do support or better yet hire him.</span>',
+  '<span class="margin">His behance profile - https://www.behance.net/valentinsld</span>',
   '<span class="margin">Bad developers steal. Good Developers share.</span>',
   '<span class="margin">&#128151; to all open-source softwares, frameworks, libraries, scripts used.</span>',
   "<span>&#128035;</span>",
