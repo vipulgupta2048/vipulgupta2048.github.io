@@ -1,20 +1,16 @@
 run = [
-  '<span class="indice">Run </span><span class="colored">portfolio(vipulgupta2048):</span>',
-  'Let\'s get started <span class="colored">portfolio<span>',
+  '<span class="indice">$ </span><span class="colored">./portfolio.sh</span>',
+  'Hello there, welcome to the portfolio of <span>vipulgupta2048h</span>',
   "To start enter the command <span class=\"command\">'help'<span>"
 ];
 
-//password
-var password = "Linux"; // NO MAJUSCULE
 // Text for the command 'Help'
 help = [
   "<br>",
   '<span class="command">about</span>          Learn more about me',
-  '<span class="command">timeline</span>       My Developer Story',
   '<span class="command">social</span>         Displays social networks',
   '<span class="command">contact</span>        Get my email',
   '<span class="command">credits</span>        Show the credits',
-  '<span class="command">download</span>       Support the designer',
   "<br>"
 ];
 var download =
@@ -36,22 +32,47 @@ about = [
 ];
 
 //link social
-var github = "https://github.com/vipulgupta2048/";
-var linkedin = "https://www.linkedin.com/in/vipulgupta2048/";
-var twitter = "https://twitter.com/vipulgupta2048/";
-var instagram = "https://www.instagram.com/vipulgupta2048_/";
+var github = "https://github.com/vipulgupta2048";
+var linkedin = "https://www.linkedin.com/in/vipulgupta2048";
+var twitter = "https://twitter.com/vipulgupta2048";
+var instagram = "https://www.instagram.com/vipulgupta2048_";
 var blog = "https://mixstersite.wordpress.com";
+var gsoc =
+  "https://summerofcode.withgoogle.com/archive/2018/projects/4997424095428608/";
+var gsoc1 =
+  "https://summerofcode.withgoogle.com/projects/?sp-search=vipulgupta2048#6742209389395968";
+var community0 = "http://asetalias.in";
+var community1 = "https://pydelhi.org";
+var talks = "https://github.com/vipulgupta2048/talkswith2048";
+var files = "https://github.com/vipulgupta2048/dotvfiles";
 
 //social
 social = [
   "<br>",
-  'github         <a href="' + github + '">' + github + "</a>",
-  'linkedin       <a href="' + linkedin + '">' + linkedin + "</a>",
-  'twitter        <a href="' + twitter + '">' + twitter + "</a>",
-  'instagram      <a href="' + instagram + '">' + instagram + "</a>",
-  'Mixster        <a href="' + blog + '">' + blog + "</a>",
+  'Github                 <a href="' + github + '">' + github + "</a>",
+  'Linkedin               <a href="' + linkedin + '">' + linkedin + "</a>",
+  'Twitter                <a href="' + twitter + '">' + twitter + "</a>",
+  'Instagram              <a href="' + instagram + '">' + instagram + "</a>",
+  'Mixster                <a href="' + blog + '">' + blog + "</a>",
+  "<br>",
+  'GSoC 2018              <a href="' + gsoc + '">' + gsoc + "</a>",
+  'GSoC 2019              <a href="' + gsoc1 +'">' + gsoc1 + "</a>",
+  "<br>",
+  'I love open-source     <a href="' + talks +'">' + talks +"</a>",
+  'Dotfiles Linux         <a href="' + files +'">' + files +"</a>",
+  'Talks & more           <a href="' + talks +'">' + talks +"</a>",
   "<br>"
 ];
+
+// Contact
+contact = [
+    "<br>",
+    "Call me old fashionned but",
+    'Email just might be the best place to reach me ASAP - <a href="' + email +'">' + email +"</a>",
+    "Available anywhere on the web as vipulgupta2048",
+    "Most active on Twitter & Instagram",
+]
+
 
 //open windows
 var openWindow = "new open window";
@@ -66,8 +87,10 @@ credits = [
   '<span class="margin">All credits to Valentin SLD for desiging this portfolio.</span>',
   '<span class="margin">If you loved his work, do support or better yet hire him.</span>',
   '<span class="margin">His behance profile - https://www.behance.net/valentinsld</span>',
+  "<br>",
   '<span class="margin">Bad developers steal. Good Developers share.</span>',
   '<span class="margin">&#128151; to all open-source softwares, frameworks, libraries, scripts used.</span>',
   "<span>&#128035;</span>",
-  "<br>"
+  "<br>",
+  '<span class="margin">In making of this portfolio, no chicks or parrots were harmed, toodles!</span>'
 ];

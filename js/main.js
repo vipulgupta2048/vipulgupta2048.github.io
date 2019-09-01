@@ -71,7 +71,6 @@ function enterKey(e) {
       valueH -= 1;
       textarea.value = historique[valueH];
       cmd.innerHTML = textarea.value;
-      //console.log(historique[valueH])
     }
     if (e.keyCode == 40 && valueH != historique.length) {
       valueH += 1;
@@ -81,7 +80,6 @@ function enterKey(e) {
         textarea.value = historique[valueH];
       }
       cmd.innerHTML = textarea.value;
-      //console.log(historique[valueH])
     }
   }
 }
@@ -98,7 +96,7 @@ function testValue(test) {
       boucleWrite(social, "colored", 120);
       break;
     case "contact":
-      addLine("My email :  " + email, "colored", 100);
+      boucleWrite(contact, "colored", 120);
       break;
     case "works":
       //soon
@@ -109,14 +107,6 @@ function testValue(test) {
       break;
     case "credits":
       boucleWrite(credits, "colored", 120);
-      break;
-    case "secret":
-      getter.classList.add("password");
-      pw = true;
-      //boucleWrite(secret, 'colored margin', 120)
-      break;
-    case "download":
-      boucleWrite("download start in 1 s", "colored", 0);
       break;
 
     //social link
