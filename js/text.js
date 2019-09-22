@@ -58,7 +58,7 @@ social = [
   'GSoC 2018              <a href="' + gsoc + '">' + gsoc + "</a>",
   'GSoC 2019              <a href="' + gsoc1 +'">' + gsoc1 + "</a>",
   "<br>",
-  'I love open-source     <a href="' + talks +'">' + talks +"</a>",
+  'I ❤️ open-source     <a href="' + talks +'">' + talks +"</a>",
   'Dotfiles Linux         <a href="' + files +'">' + files +"</a>",
   'Talks & more           <a href="' + talks +'">' + talks +"</a>",
   "<br>"
