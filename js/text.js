@@ -1,6 +1,6 @@
 run = [
   '<span class="indice">$ </span><span class="colored">./portfolio.sh</span>',
-  'Hello there, welcome to the portfolio of <span>vipulgupta2048h</span>',
+  'Hello there, welcome to the portfolio of <span>vipulgupta2048</span>',
   "To start enter the command <span class=\"command\">'help'<span>"
 ];
 
@@ -58,7 +58,7 @@ social = [
   'GSoC 2018              <a href="' + gsoc + '">' + gsoc + "</a>",
   'GSoC 2019              <a href="' + gsoc1 +'">' + gsoc1 + "</a>",
   "<br>",
-  'I ❤️ open-source     <a href="' + talks +'">' + talks +"</a>",
+  'I ❤️ open-source       <a href="' + talks +'">' + talks +"</a>",
   'Dotfiles Linux         <a href="' + files +'">' + files +"</a>",
   'Talks & more           <a href="' + talks +'">' + talks +"</a>",
   "<br>"
