@@ -1,6 +1,6 @@
 run = [
   '<span class="indice">$ </span><span class="colored">./portfolio.sh</span>',
-  'Hello there, welcome to the portfolio of <span>vipulgupta2048</span>',
+  'Hello there, welcome to the portfolio of <span>vipulgupta2048h</span>',
   "To start enter the command <span class=\"command\">'help'<span>"
 ];
 
