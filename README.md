@@ -1,12 +1,10 @@
 # Portfolio of Vipul Gupta | vipulgupta2048
 
-Website of Vipul Gupta
+Website of Vipul Gupta ([Who exactly is Vipul Gupta](https://mixstersite.wordpress.com/aboutvipulgupta2048/))
 
 Designed by [Valientien](https://github.com/valentinsld/)
 
-Adored by a lot of chicks and one party parrot.
-
-<img src="./img/party.gif" align="center">
+Adored by :hatching-chick and <img src="./img/party.gif" align="center">
 
 PS. [The reason why I absoulety dig hatching chicks](https://mixstersite.wordpress.com/2017/06/26/firstpost-and-chicks/)
 
