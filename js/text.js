@@ -45,6 +45,7 @@ var community0 = "http://asetalias.in";
 var community1 = "https://pydelhi.org";
 var talks = "https://github.com/vipulgupta2048/talkswith2048";
 var files = "https://github.com/vipulgupta2048/dotvfiles";
+var behance = "https://www.behance.net/vipulgupta2048";
 
 //social
 social = [
@@ -53,6 +54,7 @@ social = [
   'Linkedin               <a href="' + linkedin + '">' + linkedin + "</a>",
   'Twitter                <a href="' + twitter + '">' + twitter + "</a>",
   'Instagram              <a href="' + instagram + '">' + instagram + "</a>",
+  'Behance                <a href="' + behance + '">' + behance + "</a>",
   'Mixster                <a href="' + blog + '">' + blog + "</a>",
   "<br>",
   'GSoC 2018              <a href="' + gsoc + '">' + gsoc + "</a>",
