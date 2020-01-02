@@ -1,6 +1,3 @@
-/***************************
-    </> by Valentin SLD
-***************************/
 var before = document.getElementById("before");
 var getter = document.getElementById("getter");
 var pw = false;

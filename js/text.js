@@ -1,6 +1,6 @@
 run = [
   '<span class="indice">$ </span><span class="colored">./portfolio.sh</span>',
-  'Hello there, welcome to the portfolio of <span>vipulgupta2048h</span>',
+  'Hello there, welcome to the portfolio of <span>vipulgupta2048</span>',
   "To start enter the command <span class=\"command\">'help'<span>"
 ];
 
@@ -13,21 +13,18 @@ help = [
   '<span class="command">credits</span>        Show the credits',
   "<br>"
 ];
-var download =
-  "Thanks for your interest in getting the terminal portfolio. You can reach the designer here! --> valentin.salaud@mmibordeaux.com";
-var email =
-  '<a href="mailto:vipulgupta2048@gmail.com">vipulgupta2048[@]gmail[dot]com</a>';
+var download ="Thanks for your interest in getting the terminal portfolio. You can reach the designer here! --> valentin.salaud@mmibordeaux.com";
+var email = 'vipulgupta2048[@]gmail[dot]com';
 
 // Text for the command 'about'
 about = [
   "<br>",
-  "Hi there!, I am a student, OSS developer and Devrel.",
-  "I headhunt for StackRaft, write docs for Mixster, work for no-one (Unemployed freelancer)",
-  "Constantly search for new places to eat",
-  "I am into Product hacking, growth as well as closing issues on GitHub",
-  "I dig chicks, chinese food and indie music",
+  "Hi there!, I am a OSS developer, documenatation specialist and run a kickass initiative called <a href='https://mixstersite.wordpress.com/2019/05/24/mixster/'>Mixster</a>",
+  "I lead the Outreach Team @ Sugar Labs and love everything open-source.",
+  "For the past 4 years, I have been work with <a href='https://asetalias.in'>ALiAS</a>, <a href='https://pydelhi.org'>PyDelhi</a> and <a href='https://pyladies-delhi.github.io/'>PyLadies Delhi</a> alongwith helping organise <a href='https://in.pycon.org/'>PyCon India</a>",
+  "I am into Product design, developer relations as well as closing issues on GitHub",
   'If you like to know more about me, <a href="https://mixstersite.wordpress.com/aboutvipulgupta2048">Mixster can help you with that &#128076;</a>',
-  "Available all over the web as vipulgupta2048",
+  "Available all over the web as <a href='https://lmgtfy.com/?q=vipulgupta2048+&s=g'>vipulgupta2048</a>",
   "<br>"
 ];
 
@@ -60,9 +57,9 @@ social = [
   'GSoC 2018              <a href="' + gsoc + '">' + gsoc + "</a>",
   'GSoC 2019              <a href="' + gsoc1 +'">' + gsoc1 + "</a>",
   "<br>",
-  'I ❤️ open-source       <a href="' + talks +'">' + talks +"</a>",
+  'I ❤️ open-source        <a href="' + talks +'">' + talks +"</a>",
   'Dotfiles Linux         <a href="' + files +'">' + files +"</a>",
-  'Talks & more           <a href="' + talks +'">' + talks +"</a>",
+  'Talks & fun stuff.     <a href="' + talks +'">' + talks +"</a>",
   "<br>"
 ];
 
@@ -70,9 +67,9 @@ social = [
 contact = [
     "<br>",
     "Call me old fashionned but",
-    'Email just might be the best place to reach me ASAP - <a href="' + email +'">' + email +"</a>",
+    'Email is the best place to reach me instantly - ' + email + ' ',
     "Available anywhere on the web as vipulgupta2048",
-    "Most active on Twitter & Instagram",
+    "Most active on <a href='https://twitter.com/vipulgupta2048'>Twitter</a> & <a href='https://www.instagram.com/vipulgupta2048_/'>Instagram</a>",
 ]
 
 
@@ -86,13 +83,9 @@ var worksClos = "works close";
 //credits
 credits = [
   "<br>",
-  '<span class="margin">All credits to Valentin SLD for desiging this portfolio.</span>',
-  '<span class="margin">If you loved his work, do support or better yet hire him.</span>',
-  '<span class="margin">His behance profile - https://www.behance.net/valentinsld</span>',
+  '<span class="margin">All credits to <a href="https://www.behance.net/valentinsld">Valentin SLD</a> for desiging this portfolio.</span>',
+  '<span class="margin">If you loved his work, do support him or better just hire him.</span>',
   "<br>",
-  '<span class="margin">Bad developers steal. Good Developers share.</span>',
   '<span class="margin">&#128151; to all open-source softwares, frameworks, libraries, scripts used.</span>',
-  "<span>&#128035;</span>",
   "<br>",
-  '<span class="margin">In making of this portfolio, no chicks or parrots were harmed, toodles!</span>'
 ];
