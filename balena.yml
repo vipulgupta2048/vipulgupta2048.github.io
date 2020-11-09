@@ -2,22 +2,22 @@ repoUrl: "https://github.com/vipulgupta2048/null"
 tarballUrl: "https://github.com/vipulgupta2048/null/archive/master.tar.gz"
 defaultDeviceType: "raspberrypi4-64"
 applicationEnvironmentVariables:
-  - dcds23434: efnf
-  - test1: fnlsflnjd
-  - testeljsns: 21
+  dcds23434: "efnf"
+  test1: "fnlsflnjd"
+  testeljsns: "21"
 applicationConfigVariables:
-  - BALENA_HOST_CONFIG_core_freq: 2342
-  - RESIN_HOST_CONFIG_dtoverlay: 
-  - RESIN_HOST_CONFIG_disable_splash: 1
-  - RESIN_HOST_CONFIG_dtparam: \"i2c_arm=on\",\"spi=on\",\"audio=on\"
-  - RESIN_HOST_CONFIG_enable_uart: 1
-  - RESIN_HOST_CONFIG_gpu_mem: 16
-  - RESIN_SUPERVISOR_CONNECTIVITY_CHECK: true
-  - RESIN_SUPERVISOR_DELTA: 1
-  - RESIN_SUPERVISOR_DELTA_VERSION: 3
-  - RESIN_SUPERVISOR_INSTANT_UPDATE_TRIGGER: true
-  - RESIN_SUPERVISOR_LOG_CONTROL: true
-  - RESIN_SUPERVISOR_NATIVE_LOGGER: true
-  - RESIN_SUPERVISOR_PERSISTENT_LOGGING: false
-  - RESIN_SUPERVISOR_POLL_INTERVAL: 900000
-  - RESIN_SUPERVISOR_VPN_CONTROL: true
+  BALENA_HOST_CONFIG_core_freq: "23423"
+  RESIN_HOST_CONFIG_disable_splash: "1"
+  RESIN_HOST_CONFIG_dtoverlay: ""
+  RESIN_HOST_CONFIG_dtparam: "\"i2c_arm=on\",\"spi=on\",\"audio=on\""
+  RESIN_HOST_CONFIG_enable_uart: "1"
+  RESIN_HOST_CONFIG_gpu_mem: "16332432"
+  RESIN_SUPERVISOR_CONNECTIVITY_CHECK: "true"
+  RESIN_SUPERVISOR_DELTA: "0"
+  RESIN_SUPERVISOR_DELTA_VERSION: "3"
+  RESIN_SUPERVISOR_INSTANT_UPDATE_TRIGGER: "true"
+  RESIN_SUPERVISOR_LOG_CONTROL: "true"
+  RESIN_SUPERVISOR_NATIVE_LOGGER: "true"
+  RESIN_SUPERVISOR_PERSISTENT_LOGGING: "false"
+  RESIN_SUPERVISOR_POLL_INTERVAL: "2387432"
+  RESIN_SUPERVISOR_VPN_CONTROL: "true"
