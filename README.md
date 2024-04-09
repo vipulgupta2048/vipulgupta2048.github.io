@@ -1,9 +1,6 @@
 # Portfolio of Vipul Gupta | vipulgupta2048
 
-Website of Vipul Gupta ([Who exactly is Vipul Gupta](https://mixstersite.wordpress.com/aboutvipulgupta2048/))
-
-
-Adored by 🐣 and lots of party parrots
+[Link to the good stuff.](https://docs.mixster.dev)
 
 <img src="./img/party.gif" align="center">
 
